@@ -13,5 +13,4 @@ public class IFstatements {
             System.out.println("you cannot drive");
         }
     }
-    
 }

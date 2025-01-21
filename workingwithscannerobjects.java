@@ -12,5 +12,6 @@ public class workingwithscannerobjects {
         System.out.println("hello "+name); 
         System.out.println("your favourite food is:"+food);
         System.out.println("your age is:"+age);
+        
     }
 }
